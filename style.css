@@ -1,0 +1,65 @@
+body
+{
+font-style: 'Sarina', cursive;
+background: #ffcdc7;
+}
+.header_div{
+    background: rgb(0, 255, 0);
+    color: rgb(255, 255, 255);
+}
+.header_div img{
+    width:100px;
+}
+.main_div{
+    background:rgb(255, 119, 119);
+    padding:10px;
+    margin-top:15px;
+    border:1px solid rgb(0, 255, 0);
+}
+.main_div label{
+    background: rgb(0, 255, 0);
+    width: 310px;
+    padding: 10px;
+    margin-bottom:0px;
+    box-shadow: 5px 5px 18px rgb(0, 255, 0)
+}
+#camera{
+   border: 2px solid rgb(0, 255, 0);
+   width: 310px;
+   height: 300px;
+   box-shadow: 5px 5px 18px rgb(0, 255, 0);
+}
+.main_div button{
+    width: 310px;
+    font-size:16px;
+    box-shadow: 5px 5px 18px rgb(0, 255, 0);
+    border: 1px solid;
+}
+.footer_div
+{
+margin-bottom: 50px;
+}
+
+.footer_div h4
+{
+    background: 10px;
+    padding:5px;
+    box-shadow: 5px 5px 18px white;
+}
+.fotter_div img{
+    width:70px;
+}
+
+.copy_right_fotter{
+    position: fixed;
+    color:#6c757d;
+    bottom:0;
+    width:100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+}
+
+img{
+   width:100px 
+}
